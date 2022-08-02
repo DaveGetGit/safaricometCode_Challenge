@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using StudentRegistrarApi.Data;
 using StudentRegistrarApi.Error_Handler;
 using StudentRegistrarApi.Service;
